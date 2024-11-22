@@ -8,4 +8,4 @@ Authors: Olli Niemitalo (HAMK Häme University of Applied Sciences) Elias Anzini
 
 Source code copyright 2023-2024 HAMK and authors.
 
-`finland_reprojected.geojson` (an approximate geographical area of Finland) is based on free vector data from Natural Earth. https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/ The procedure to simplify the geometry in QGIS was: Select country, Keep N biggest parts (20 parts), Multipart to singleparts, Simplify (tolerance 0.01 deg), save GeoJson at a precision of 2 decimal places.
+`finland_reprojected.geojson` (the approximate geographical area of Finland) is based on free vector data from Natural Earth. https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-0-countries/ The procedure to simplify the geometry in QGIS was: Select country, Keep N biggest parts (20 parts), Multipart to singleparts, Simplify (tolerance 0.01 deg), save GeoJson at a precision of 2 decimal places.
