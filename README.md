@@ -4,6 +4,8 @@ This code is for collecting a database of random Sentinel 2 satellite images. An
 
   Häme University of Applied Sciences. (2024). 10k random 512x512 pixel Sentinel 2 Level-1C RGB satellite images over Finland, years 2015–2022. Häme University of Applied Sciences. https://doi.org/10.23729/32a321ac-9012-4f17-a849-a4e7ed6b6c8c
 
+The current version should be able to produce a dataset with the same distribution.
+
 Authors: Olli Niemitalo (HAMK Häme University of Applied Sciences) Elias Anzini Junior, and Vinicius Hermann D. Liczkoski.
 
 Source code copyright 2023-2024 HAMK and authors.
