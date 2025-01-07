@@ -6,6 +6,11 @@ Niemitalo, O., Anzini, E. Jr., & Liczkoski, V. H. D. (2024). 10k random 512x512 
 
 The current version should be able to produce a dataset with the same distribution.
 
+Workflow:
+* `random_sentinel2_retrieve.py` -- Collect dataset (configure with command line params)
+* `zip_images.py` -- Create zip files of the dataset (configure by editing the source code)
+* `make_overview.py` -- Create an overview of the dataset (configure by editing the source code)
+
 Authors: Olli Niemitalo (HAMK Häme University of Applied Sciences) Elias Anzini Junior, and Vinicius Hermann D. Liczkoski.
 
 Source code copyright 2023-2024 HAMK and authors.
